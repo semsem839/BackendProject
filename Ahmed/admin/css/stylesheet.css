@@ -1,0 +1,152 @@
+*{
+ margin:0;
+ padding: 0;  
+ box-sizing: border-box;                 
+}
+body,html{
+   font-family: 'Lato', sans-serif;
+}
+.btn{
+   text-align: center;
+}
+li a:hover{
+   background-color: blue;
+   color:white;
+}
+.head{
+background-image:url("../images/download.png");
+   height:400px;
+   background-position: center;
+   background-size: cover;
+}
+.p2{
+   text-align: right;
+   margin-top: -400px;
+}
+.p3{
+ padding:20px;
+ text-align: right;
+ margin-top: -100px;
+}
+.icon{
+   text-align: center;
+   border: 2px;
+}
+.btn{
+  border:2px;
+  border-radius: 20%;
+
+}
+.head{
+   text-align: center;
+   font-size: large;
+}
+.gallery1{
+   display: flex;
+   justify-content: space-between;
+}
+h2{
+   size:12px ;
+}
+.icon1{
+   text-align: left;
+   color: purple;
+}
+.icon2{
+   text-align: left;
+}
+.gallery{
+   display: flex;
+   justify-content: space-between;
+}
+h6{
+   text-decoration: underline;
+}
+.section1{
+   background-image:url("../images/download.png");
+   height:400px;
+   background-position: center;
+   background-size: cover;
+   background-repeat: repeat;
+}
+.section1 .content p{
+   text-align: left;
+
+}
+h1{
+   padding: 100px;
+   text-decoration-style: bold ;
+   weight: bolder;
+}
+.section2{
+background-image: url("../images/download.png");
+   height:400px;
+   background-position: center;
+   background-size: cover;
+ 
+}  
+.row{
+   display: flex;
+   justify-content: space-between;
+}
+  h1{
+  color:black;
+  padding :100px;
+}
+p{
+   color:black;  
+}
+.photo{
+   text-align: center;
+   padding: 100px;
+}
+.gallery2{
+   display: flex;
+   justify-content: space-between;
+}
+.icons{
+   display: flex;
+   justify-content: space-between;
+}
+.footer{
+   background-color: grey;
+   color:white;
+   height:400px;
+}
+ .footer {
+   display: flex;
+   justify-content: space-between;
+}
+h3{
+   margin-left: 25px;
+   padding: 50px;
+   text-align: right;
+}
+ul{
+   padding: 20px;
+   margin-left: -5px;
+}
+ .li{
+    color:white;
+ }
+button{
+   text-align: center;
+   margin-top: -5px;
+}
+.footer2{
+   color:white;
+   height:50px;
+}
+.footer{
+   display: flex;
+   justify-content:space-between;
+}
+.navbar .navbrand{
+   color:white ;
+}
+a li{
+   color:white;
+}
+  .footer2 li{
+     color:white;
+  }
